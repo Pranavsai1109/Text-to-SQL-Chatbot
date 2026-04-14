@@ -51,9 +51,4 @@ The performance of the chatbot can be evaluated using various metrics, including
 - **Accuracy**: How accurately the LLM generates the correct SQL queries.
 - **Response Time**: The time taken to return results after a query is made.
 - **User Feedback**: Collecting feedback from users on the clarity and usefulness of responses.
-
-
-# Notes:
-- Replace `pik1989` in the clone command with your actual GitHub username.
-- Update the path to the architecture diagram image in the Markdown.
-- Customize any sections as needed to better fit your project specifics.
+                                   **Thank You**
